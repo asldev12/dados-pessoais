@@ -12,17 +12,26 @@ Em 2023 comecei a estudar desenvolvimento web, iniciei o contato com programaç�
 ## - Qualificações
 
 - Web Design
+```
+Ink Scape - Corel Draw
+```
 
 - Front-End
+```
+html - css - java script
+```
 
 - Técnico em Telecom
+```
+Banda Larga - Iptv - Telefonia
+```
 
 ## - Objetivo
 
 - Concluir o curso de desenvolvimento web e ingressar no mercado de trabalho.
 
-## - Tecnologias
 
-```
-html - css - java script
-```
+
+
+
+
