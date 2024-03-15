@@ -18,12 +18,12 @@ html - css - java script
 
 - Web Design
 ```
-Ink Scape - Corel Draw
+Inkscape - Corel Draw
 ```
 
 - Técnico em Telecom
 ```
-Banda Larga - Iptv - Telefonia
+Banda Larga - TV - Telefonia
 ```
 
 ## - Objetivo
