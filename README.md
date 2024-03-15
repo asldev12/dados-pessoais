@@ -15,6 +15,8 @@ Em 2023 comecei a estudar desenvolvimento web, iniciei o contato com programaç�
 
 - Front-End
 
+- Técnico em Telecom
+
 ## - Objetivo
 
 - Concluir o curso de desenvolvimento web e ingressar no mercado de trabalho.
