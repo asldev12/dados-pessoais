@@ -1,5 +1,5 @@
 # Perfil
-<img src="./foto-readme.png" alt="foto-do-perfil">
+<img src="./foto-readme.png" alt="foto-do-perfil" height= "40px" width= "40px">
 
 
  Meu nome é Alex, sou brasileiro resido em São Paulo - SP, tenho 39 anos, sou casado e pai de dois filhos. 
