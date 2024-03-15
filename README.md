@@ -11,14 +11,14 @@ Em 2023 comecei a estudar desenvolvimento web, iniciei o contato com programaç�
 
 ## - Qualificações
 
-- Web Design
-```
-Ink Scape - Corel Draw
-```
-
 - Front-End
 ```
 html - css - java script
+```
+
+- Web Design
+```
+Ink Scape - Corel Draw
 ```
 
 - Técnico em Telecom
